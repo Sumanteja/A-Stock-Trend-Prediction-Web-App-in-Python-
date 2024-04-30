@@ -32,24 +32,26 @@ To use this project, follow these steps:
 ## Results
 ### Graphical Visualizations
 
+*Stock prices*
+![frame_firefox_mac_dark_(1)](https://raw.githubusercontent.com/nithinchowdary2532/A-Stock-Trend-Prediction-Web-App-in-Python-/main/images/image1.jpg)
 #### Price vs MA50
 ![Price vs MA50]
-![frame_firefox_mac_dark_(1)](https://raw.githubusercontent.com/Megh-Zyke/Histify/main/images/2.jpg)
+![frame_firefox_mac_dark_(1)](https://raw.githubusercontent.com/nithinchowdary2532/A-Stock-Trend-Prediction-Web-App-in-Python-/main/images/image2.jpg)
 *This graph compares the stock price with the 50-day moving average (MA50).*
 
 #### Price vs MA50 vs MA100
 ![Price vs MA50 vs MA100]
-![frame_firefox_mac_dark_(1)](https://raw.githubusercontent.com/Megh-Zyke/Histify/main/images/2.jpg)
+![frame_firefox_mac_dark_(1)](https://raw.githubusercontent.com/nithinchowdary2532/A-Stock-Trend-Prediction-Web-App-in-Python-/main/images/image3.jpg)
 *This graph compares the stock price with the 50-day and 100-day moving averages (MA50 and MA100).*
 
 #### Price vs MA100 vs MA200
 ![Price vs MA100 vs MA200]
-![frame_firefox_mac_dark_(1)](https://raw.githubusercontent.com/Megh-Zyke/Histify/main/images/2.jpg)
+![frame_firefox_mac_dark_(1)](https://raw.githubusercontent.com/nithinchowdary2532/A-Stock-Trend-Prediction-Web-App-in-Python-/main/images/image4.jpg)
 *This graph compares the stock price with the 100-day and 200-day moving averages (MA100 and MA200).*
 
 #### Original Price vs Predicted Price
 ![Original vs Predicted Price]
-![frame_firefox_mac_dark_(1)](https://raw.githubusercontent.com/Megh-Zyke/Histify/main/images/2.jpg)
+![frame_firefox_mac_dark_(1)](https://raw.githubusercontent.com/nithinchowdary2532/A-Stock-Trend-Prediction-Web-App-in-Python-/main/images/image5.jpg)
 *This graph compares the original stock price with the predicted price from the model.*
 
 
