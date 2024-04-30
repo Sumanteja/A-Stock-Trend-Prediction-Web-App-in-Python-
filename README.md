@@ -26,7 +26,7 @@ Stock trend prediction is an essential task for investors and traders to make in
 To use this project, follow these steps:
 
 1. Clone the repository:
-   git clone https://github.com/nithinchowdary2532/stock-trend-prediction.git
+   git clone https://github.com/nithinchowdary2532/A-Stock-Trend-Prediction-Web-App-in-Python-
    cd stock-trend-prediction
 
 ## Results
